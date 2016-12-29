@@ -3458,8 +3458,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   z-index: 1000;
-  min-height: 60px;
-  margin-bottom: 20px;
+  min-height: 50px;
+  margin-bottom: 15px;
   border: 1px solid transparent;
 }
 .navbar:before,
