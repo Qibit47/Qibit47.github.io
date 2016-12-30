@@ -1,9 +1,9 @@
 # Mandatory settings
 
-name: Chalk
-paginate: 25
+name: Vault 47
+paginate: 20
 paginate_path: "/posts/page/:num/"
-url: # add site url http://example.com/
+url: http://qibit47@github.com add site url http://example.com/
 blog_theme: light # Or use dark
 
 # Optional settings
