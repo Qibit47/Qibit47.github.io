@@ -5,8 +5,8 @@ gems: [jekyll-paginate]
 name: Vault 47
 email: qubit47@gmail.com
 author: Billy Qi
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+url: http://qibit47.github.io
+resume_site: 
 github: https://github.com/Qibit47/
 baseurl: ""
 description: Notes for Everything
