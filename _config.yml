@@ -1,51 +1,66 @@
-gems: [jekyll-paginate]
+# Mandatory settings
 
-# Site settings
+name: Chalk
+paginate: 25
+paginate_path: "/posts/page/:num/"
+url: # add site url http://example.com/
+blog_theme: light # Or use dark
 
-name: Vault 47
-email: qubit47@gmail.com
-author: Billy Qi
-url: http://qibit47.github.io
-resume_site: 
-github: https://github.com/Qibit47/
-baseurl: ""
-description: Notes for Everything
-meta_description: Billy Qi;Personal Blog;
-motto: Notes for Everything
-banner: No hurt fellings.
+# Optional settings
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
-paginate: 10
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-github_username: Qibit47
-highlighter: rouge
+discus_identifier: # Add your Disqus identifier
+ga_analytics: # Add your GA Tracking Id
+rss_enabled: true # Change to false if not
+about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
+social:
+  dribbble: # Add your Dribbble handle
+  facebook: # Add your Facebook handle
+  flickr: # Add your Flickr handle
+  github: # Add your GitHub handle
+  linkedin: # Add your LinkedIn handle
+  twitter: # Add your Twitter handle
+  email: # Add your Email address
+  bitcoin: # Add your Bitcoin link or address
 
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  A vault built for articles by Billy Qi.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Qibit47
+# Important settings (change at own risk)
 
-# Build settings
-markdown: kramdown
-
-# FB:
-  # comments :
-    # provider : duoshuo
-    # duoshuo:
-        # short_name : luoyan35714
-    # disqus :
-        # short_name : 
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
+assets:
+  compress:
+    css: true
+    js: true
+  features:
+    automatic_img_size: false
+  sources:
+    - _assets/bower
+    - _assets/fonts
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _vendor/
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:slug/
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: articles_by_tag
+exclude:
+  - .bowerrc
+  - .travis.yml
+  - bin/*
+  - bower.json
+  - circle.yml
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+gems:
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+permalink: posts/:slug
