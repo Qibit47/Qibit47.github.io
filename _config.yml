@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "\assets\images\avatar-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : \assets\images\avatar-image.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Shanghai, China"
   email            : qubit47@gmail.com
