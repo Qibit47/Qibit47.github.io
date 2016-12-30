@@ -2,7 +2,7 @@ gems: [jekyll-paginate]
 
 # Site settings
 
-name: Vault 047
+name: Vault 47
 email: qubit47@gmail.com
 author: Billy Qi
 url: http://www.hifreud.com
@@ -10,8 +10,8 @@ resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/Qibit47/
 baseurl: ""
 description: Notes for Everything
-meta_description: Billy Tsi;Personal Blog;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: M for Mathematics.
+meta_description: Billy Qi;Personal Blog;
+motto: Notes for Everything
 banner: No hurt fellings.
 
 #permalink: /:categories/:year/:month/:day/:title/
@@ -37,13 +37,13 @@ github_username:  Qibit47
 # Build settings
 markdown: kramdown
 
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : luoyan35714
-    disqus :
-        short_name : freudkang
+# FB:
+  # comments :
+    # provider : duoshuo
+    # duoshuo:
+        # short_name : luoyan35714
+    # disqus :
+        # short_name : 
     # facebook :
     #   appid : 123
     #   num_posts: 5
