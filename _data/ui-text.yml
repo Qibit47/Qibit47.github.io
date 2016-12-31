@@ -347,7 +347,7 @@ zh: &DEFAULT_ZH
   comment_form_website_label : "网址 (可选)"
   comment_btn_submit         : "提交 评论"
   comment_btn_submitted      : "已提交"
-  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_success_msg        : "感谢你的评论! 评论通过审核后将会在页面上显示."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
 zh-CN:
