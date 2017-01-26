@@ -7,10 +7,14 @@
 
 # Site Settings
 locale                   : "en"
+<<<<<<< HEAD
 title                    : "47 Life"
 <<<<<<< HEAD
 title_separator          : "-"
 =======
+=======
+title                    : "· 47 Life"
+>>>>>>> origin/master
 title_separator          : "|"
 >>>>>>> origin/master
 name                     : "Billy Tsi"
