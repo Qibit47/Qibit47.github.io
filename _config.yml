@@ -9,14 +9,14 @@
 locale                   : "en"
 title                    : "Bits of Life"
 title_separator          : "|"
-name                     : "Billy.F.Tsi"
+name                     : "Billy Tsi"
 description              : "Technology, Mathematics, Life and Everything."
 url                      : "https://qibit47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Qibit47/qibit47.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 180
+words_per_minute         : 160
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
