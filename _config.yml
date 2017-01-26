@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "47 Life"
-title_separator          : "|"
+title_separator          : " | "
 name                     : "Billy Tsi"
 description              : "Technology, Mathematics, Life and Everything."
 url                      : "https://qibit47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
