@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "47 Life"
-title_separator          : "|"
+title_separator          : "-"
 name                     : "Billy Tsi"
 description              : "Technology, Mathematics, Life and Everything."
 url                      : "http://www.47life.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
