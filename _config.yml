@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Billy Tsi"
   avatar           : "/assets/images/bio-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wir müssen wissen,wir werden wissen."
+  bio              : "Wir müssen wissen, <br> wir werden wissen."
   location         : "Shanghai, China"
   email            : "qubit47@gmail.com"
   uri              :
