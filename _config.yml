@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Billy Tsi"
-  avatar           : "https://47.com/assets/images/bio-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://www.github.com/Qibit47/qibit47.github.io/assets/images/bio-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Wir müssen wissen,wir werden wissen."
   location         : "Shanghai, China"
   email            : "qubit47@gmail.com"
