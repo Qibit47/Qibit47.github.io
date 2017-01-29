@@ -3,7 +3,7 @@ main:
   - title: "Categories"
     url: http://www.47life.com/categories/
   - title: "Tags"
-  - url: http://www.47life.com/tags/
+    url: http://www.47life.com/tags/
   - title: "About"
     url: http://www.47life.com/about/
   # - title: "Sample Posts"
