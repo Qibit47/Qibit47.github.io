@@ -20,4 +20,4 @@ author_profile: true
 
 # Why 47?
 我总是相信 47 是我的幸运数字（之一？），而且 47 还是一个质数。
-P.S. 我已经对 42 感到有点厌烦了。
+P.S. 我已经对 [42](en.wikipedia.org/wiki/42_(number)) 感到有点厌烦了。
