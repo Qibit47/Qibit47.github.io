@@ -4,7 +4,7 @@ excerpt        : "About this site."
 sidebar        : true
 permalink      : /about/
 author_profile : true
-comment        : true
+comments       : true
 ---
   
 目前，[本网站](47life.com)是 Billy Tsi 的个人网站。由于学业繁忙，目前处于不定期更新状态。  
