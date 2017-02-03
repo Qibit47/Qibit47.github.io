@@ -103,6 +103,7 @@ blockquote {
 
   cite {
     /* font-style: italic; */
+    font-color: $light-gray;
 
     &:before {
       content: "\2014";
