@@ -9,7 +9,7 @@ tags:
 ---
 
 ## 题目
-来自谢启鸿老师的[每周一题](http://www.cnblogs.com/torsor/p/6500781.html)  
+来自谢启鸿老师的[每周一题](http://www.cnblogs.com/torsor/p/6500781.html).  
 **问题2017S01** 设 $$A$$ 是 $$n$$ 阶对合阵, 即 $$A^2=I_n$$, 证明: $$n-\mathrm{tr}(A)$$ 为偶数, 并且 $$\mathrm{tr}(A)=n$$ 的充要条件是 $$A=I_n$$.
 
 ## 解答
