@@ -1,6 +1,9 @@
 ---
 name: Project Template
 about: GTD 项目纵向分析模板
+title: ''
+labels: ''
+assignees: Qibit47
 
 ---
 

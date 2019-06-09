@@ -1,6 +1,9 @@
 ---
 name: Reading Template
 about: 十二个问题
+title: ''
+labels: ''
+assignees: Qibit47
 
 ---
 

@@ -1,6 +1,9 @@
 ---
 name: Exercise Template
-about: Create a report to help us improve
+about: 读书专用模板
+title: ''
+labels: ''
+assignees: Qibit47
 
 ---
 
